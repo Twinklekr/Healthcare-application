@@ -1,4 +1,4 @@
-package com.healthcare.Entities;
+package com.healthcare.entities;
 
 import java.sql.Timestamp;
 import java.time.LocalTime;
