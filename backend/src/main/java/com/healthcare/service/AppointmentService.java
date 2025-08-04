@@ -1,4 +1,4 @@
-package com.healthcare.services;
+package com.healthcare.service;
 
 import java.time.LocalTime;
 import java.util.List;

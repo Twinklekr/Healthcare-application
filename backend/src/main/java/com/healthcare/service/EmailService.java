@@ -1,4 +1,4 @@
-package com.healthcare.services;
+package com.healthcare.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.javamail.JavaMailSender;

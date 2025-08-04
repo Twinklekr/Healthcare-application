@@ -1,4 +1,4 @@
-package com.healthcare.services;
+package com.healthcare.service;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
